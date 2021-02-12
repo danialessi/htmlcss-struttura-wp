@@ -33,7 +33,7 @@ header {
 main {
     width: 100%;
     background-color: #1283fa;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 main::after {
