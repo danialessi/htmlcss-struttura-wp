@@ -6,6 +6,13 @@
 }
 /* reset  */
 
+/* common */
+.col {
+    background-color: #abcfe7;
+    float: left;
+}
+/* end of common */
+
 .wrapper {
     width: 80%;
     margin: 20px auto;
@@ -48,12 +55,6 @@ main::after {
     background-color: #abcfe7;
 }
 
-/* common */
-.col {
-    background-color: #abcfe7;
-    float: left;
-}
-/* end of common */
 
 .col-left,.col-right {
     width: 20%;
